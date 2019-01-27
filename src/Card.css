@@ -1,0 +1,15 @@
+.pic-size {
+  height: 200px;
+  width: 200px;
+  opacity: 0.8;
+}
+
+.quote {
+  font-size: 15px;
+  font-family: "Major Mono Display", monospace;
+  word-wrap: normal;
+}
+
+.bw1 {
+  border: 2px solid black;
+}
